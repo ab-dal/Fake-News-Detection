@@ -1,4 +1,5 @@
 📰 Fake News Detection System
+
 📌 Overview
 This project is a Machine Learning-based web application that detects whether a news article is Fake or Real using Natural Language Processing (NLP) techniques.
 
@@ -57,5 +58,5 @@ Add deep learning models (LSTM, BERT)
 Improve UI design
 Deploy on cloud (AWS/Heroku)
 
-👨‍💻 Author
+👨‍💻 Author:
 ABDUL WARIS
