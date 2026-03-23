@@ -1,11 +1,11 @@
-📰 Fake News Detection System
+## 📰 Fake News Detection System
 
-📌 Overview
+## 📌 Overview
 
   This project is a Machine Learning-based web application that detects whether a news article is Fake or Real using Natural Language Processing (NLP) techniques.
   
 
-🚀 Features
+## 🚀 Features
 
     1. Classifies news articles as Fake or Real
     2. Uses TF-IDF for text vectorization
@@ -13,7 +13,7 @@
     4. Interactive web interface using Streamlit
     
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
     Python
     Pandas
@@ -23,13 +23,13 @@
     Joblib
 
 
-📂 Dataset
+## 📂 Dataset
 
     Fake.csv
     True.csv
     
 
-⚙️ How It Works
+## ⚙️ How It Works
 
     Data preprocessing (cleaning text, removing noise)
     Feature extraction using TF-IDF
@@ -37,12 +37,12 @@
     Prediction on user input via web app
 
 
-📊 Model Performance
+## 📊 Model Performance
 
     Accuracy: 98.5%
     Precision, Recall, F1-score evaluated
 
-💻 Installation & Setup
+## 💻 Installation & Setup
 1. Clone the repository
 
    git clone https://github.com/your-username/fake-news-detection.git
@@ -60,14 +60,14 @@
     streamlit run app.py
 
 
-📸 Usage
+## 📸 Usage
 
     Enter a news article in the text box
     Click Check News
     Get prediction: Fake or Real
     
 
-📁 Project Structure
+## 📁 Project Structure
 
   ├── Fake.csv
   
@@ -83,7 +83,7 @@
 
 
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add deep learning models (LSTM, BERT)
 
@@ -92,7 +92,12 @@ Improve UI design
 Deploy on cloud (AWS/Heroku)
 
 
+## 💻 Live Demo
 
-👨‍💻 Author:
+Try the project online using Streamlit: [Click here](https://your-streamlit-link)
 
-ABDUL WARIS
+
+
+## 👨‍💻 Author:
+
+## ABDUL WARIS
